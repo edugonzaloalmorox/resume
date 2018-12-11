@@ -1,0 +1,97 @@
+---
+name: Eduardo Gonzalo Almorox
+#position: "Data Scientist & Applied Economist"
+address: "Newcastle University, UK"
+phone: +44 745 37 444 97
+profilepic: edu.jpg
+www: edugonzalmo.netlify.com
+email: "eduardogonzaloalmorox@gmail.com"
+twitter: EdudinGonzalo
+github: edugonzaloalmorox
+linkedin: Eduardo Gonzalo Almorox
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "Quantitative research scientist, lecturer **and** mentor **with** 8 years **of** international and multicultural experience **in** analytics. Keen and flexible **to work both** independently **and in** collaborative environments. **Determined to provide** interpretable insights **from complex data and** communicate craft solutions **to technical and non-technical audiences. Excellent at** learning, process **and** apply **new concepts** rapidly. Toolkit **includes:** R **(>6 years +  DataCamp Data Science Career in R)**, Git **(> 2 years)**, SQL **(1 year)**, Python **(1 year)**, GIS **(3 years)** and Stata **(> 6 years)**. "
+
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(RefManageR)
+```
+
+# Work Experience
+
+## Newcastle University, UK | Jan. 2013 - present
+
+ Quantitative Researcher 
+ 
+* **Developed** statistical **and** econometric **models based on** panel data **and** quasi-experimental methods to address problems on causal inference. Presented **results in** technical **and** non-technical conferences
+ 
+ * **Used** R **and** SQL **for accessing, wrangling and analysing big microdatasets on +17000 care homes, +20M property transactions and other public information**.  Web-scrapped **online reviews of care homes and applied** machine learning **on** text data to analyse **topic modelling.**
+ 
+ * **Used** GIS **to** visualise spatial distributions **of multiple units of analysis (care homes, restaurants, hospitals, individuals...)**
+ 
+
+ 
+ 
+Project Manager 
+ 
+ 
+ * Managed **a three-month** research project **that involved** planning **objectives**, hiring **and** supervision **of a junior researcher**, meeting deadlines **and** deliver **outcomes**. 
+
+* **Awarded with a** PhD studentship (~67K pounds for 3 years) **from the Economic Social Research Council**.
+ 
+ * **Awarded with a**  NIHR Research Methods Fellowship (~54K pounds for 2 years) **from the National Institute of Health Research**.
+
+
+Lecturer 
+
+
+ * **Teaching assistant in** postgraduate econometrics **and** undergraduate microeconomics. 
+ 
+ * **Desgined and delivered** technical workshops **in R to staff from Newcastle and Durham universities**.
+ 
+ 
+
+## FUNCAS, Spain | Nov. 2011 - Dec 2012 
+
+
+Economic Research Consultant to the President of the Advisory Board
+
+* Provided advice and intelligence **on Spanish and European financial regulation to members of the Advisory Board**. 
+
+
+## Grupo Banco Santander, Belgium | Aug. 2008 - Sept. 2009
+
+Public Policy Research Assistant to the Head of European Corporate Affairs
+
+* **Produced** summaries, reports **and** technical notes **on European financial regulation for senior members of the European Corporate Affairs Office and the Public Policy Department**. 
+
+* **Organised** meetings and agendas **for members of the European Corporate Affairs office**.
+
+* **Attended meetings with staff from** European institutions **and** think-tanks **on behalf of Santander to discuss issues on financial regulation**.
+ 
+# Education 
+
+Newcastle University, UK
+
+* PhD in Economics | **expected Mar. 2019**
+
+Complutense University, Spain
+
+* MSc Economics | **Jun. 2012**
+* BSc Economics (licenciatura) | **Feb. 2009**
+* Visiting student at IESEG and EDHEC Business School (France) | **Sep.2006 - Jun. 2007**
+
+
+# Other Skills
+
+* Languages: **Spanish (native),  English (fluent),  French (fluent),  Portuguese  (beginner)**
+
+* Mentorship: **Mentor at IMFHAE  (since Oct. 2016)**
+
+* Current and prospective research interests: **Hadoop, Spark, Scala**
+
+

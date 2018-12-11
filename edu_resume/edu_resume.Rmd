@@ -90,7 +90,7 @@ Complutense University, Spain
 
 * Languages: **Spanish (native),  English (fluent),  French (fluent),  Portuguese  (beginner)**
 
-* Mentorship: **Mentor at IMFHAE  (since Oct. 2016)**
+* Mentorship: **Mentor at IMFHAE Foundation  (since Oct. 2016)**
 
 * Current and prospective research interests: **Hadoop, Spark, Scala**
 
